@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class AnotherSolution {
     public static void main(String[] args) {
         try (BufferedReader reader = new BufferedReader(new FileReader("Input.txt"));
              BufferedWriter writer = new BufferedWriter(new FileWriter("Output.txt"))) {
